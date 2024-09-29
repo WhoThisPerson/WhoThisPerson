@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Languages:
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=ffffff)
@@ -40,8 +41,11 @@ Here are some ideas to get you started:
 ![Mac](https://img.shields.io/badge/-Mac-999999?style=flat-square&logo=apple&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 
+## Some Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WhoThisPerson&show_icons=true&theme=radical" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoThisPerson&layout=compact&theme=radical" width="400" height="200" />
+</p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhoThisPerson&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoThisPerson&layout=compact&theme=radical)
 
 

@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **WhoThisPerson/WhoThisPerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Website:
+## Hi there 👋
+# Check out my website:
 https://whothisperson.github.io/Portfolio/
 
 ## Stats:

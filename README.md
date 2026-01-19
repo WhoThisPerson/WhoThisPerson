@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
-## Welcome to my GitHub profile. Check out my website if you want to learn whose running this profile:
+## Hi there👋.
+## Welcome to my GitHub profile. 
+## Check out my website if you want to learn about who's running this profile:
 https://whothisperson.github.io/Portfolio/
 
 ## Stats:

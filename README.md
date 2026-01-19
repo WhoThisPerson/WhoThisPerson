@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋
-# Check out my website:
+## Welcome to my GitHub profile. Check out my website if you want to learn whose running this profile:
 https://whothisperson.github.io/Portfolio/
 
 ## Stats:

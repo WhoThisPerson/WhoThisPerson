@@ -13,16 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there👋.
-## Welcome to my GitHub profile. 
-## Check out my website if you want to learn about who's running this profile:
-https://whothisperson.github.io/Portfolio/
+## Hi there👋. Welcome to my GitHub profile. 
+## 📫 Check out my website if you want to learn about who's running this profile:
 
-## Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhoThisPerson&show_icons=true&theme=radical" width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoThisPerson&layout=compact&theme=radical" width="400" height="200" />
-</p>
+[Portfolio Website](https://whothisperson.github.io/Portfolio/)
 
+## Some stats if you're interested:
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhoThisPerson&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WhoThisPerson&theme=tokyonight&utcOffset=-5" />
+</div>
 
-
+<div>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=WhoThisPerson&show_icons=true&rank_icon=github&theme=radical"/>
+  <img height=200 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoThisPerson&layout=compact&langs_count=12&theme=radical" />
+</div>

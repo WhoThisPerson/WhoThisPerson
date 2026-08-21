@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there👋. Welcome to my GitHub profile. 
-## 📫 Check out my website if you want to learn about who's running this profile:
 
+I'm [Qirong](https://www.linkedin.com/in/qirongwu), a software developer based in the US of A.
+
+I design and build whatever might come to mind. When I'm free, chances are I'll attempt to build it.
+
+Right now, I am primarily using React, Typescript, and Node for full stack apps and Python for virtually everything else.
+
+## 📫 Check out my website for more details:
 [Portfolio Website](https://whothisperson.github.io/Portfolio/)
 
-## Some stats if you're interested:
+## Some GitHub stats if you're interested:
 <!-- <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhoThisPerson&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WhoThisPerson&theme=tokyonight&utcOffset=-5" />

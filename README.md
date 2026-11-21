@@ -21,6 +21,8 @@ I design and build whatever might come to mind. When I'm free, chances are I'll 
 
 Right now, I am primarily using React, Typescript, and Node for full stack apps and Python for virtually everything else.
 
+![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=WhpThisPerson.WhoThisPerson&color=00cf00) 
+
 ## 📫 Check out my website for more details:
 [Portfolio Website](https://whothisperson.github.io/Portfolio/)
 
